@@ -1,4 +1,4 @@
-# Hi there, I'm Hitesh Chauhan  𓆉 
+# Hi there, I'm Hitesh 𓆉 
 ### Junior AI Engineer | Data Scientist | Software Developer
 
 I am a Computational Science Master's graduate specializing in Machine Learning, Data Analytics, and Cloud Computing. My work bridges the gap between complex AI algorithms and actionable business insights.
