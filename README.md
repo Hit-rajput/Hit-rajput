@@ -27,15 +27,16 @@ An ongoing research initiative to improve fire risk forecasting in Canada. I am 
 * **The Innovation:** Moving beyond simple regression to use evolutionary computing for optimizing complex environmental variables.
 * [cite_start]**Impact:** Recognized by professors and invited to co-author a research paper on the methodology[cite: 48].
 
-### 🎭 Facial Expression Recognition (CNN + Handcrafted Features)
-**Tags:** `Deep Learning` `CNN` `Computer Vision` `HOG/SIFT`
+### 🎭Facial Emotion Recognition (Custom CNN Architecture)
+**Tags:** `Python` `Deep Learning` `Statistical Modelling` `Data Augmentation`
 
-Designed a hybrid computer vision model to tackle emotion recognition in unconstrained environments.
+A research-intensive project focused on quantifying human behavior through computer vision. [cite_start]Unlike standard implementations using pre-built libraries, this model was architected from scratch to optimize performance on specific datasets[cite: 209].
 
-* **The Challenge:** Standard CNNs often struggle with varying lighting and subtle expression changes.
-* [cite_start]**The Solution:** Engineered a Convolutional Neural Network (CNN) augmented with handcrafted features (HOG and SIFT) to capture texture and shape information that pure deep learning might miss[cite: 57, 58].
-* [cite_start]**Outcome:** Significantly improved robustness and accuracy across diverse lighting conditions[cite: 59].
-
+* [cite_start]**The Model:** Designed and trained a **Convolutional Neural Network (CNN)** from the ground up to categorize complex facial data into 7 distinct emotional states[cite: 188, 232].
+* **Data Rigor:**
+    * [cite_start]Implemented rigorous **Data Augmentation** (random cropping, flipping, rotation) to solve the problem of limited datasets and prevent model overfitting[cite: 194].
+    * [cite_start]Conducted a comparative analysis against HOG (Histogram of Oriented Gradients) and SIFT feature extraction methods to validate statistical significance[cite: 213].
+* [cite_start]**Outcome:** Achieved **82% accuracy** on the test dataset, outperforming traditional feature extraction techniques[cite: 283].
 ---
 
 ## 📊 Data Visualization & Analytics
@@ -66,12 +67,13 @@ A cloud-native application designed to isolate and enhance specific color elemen
 * [cite_start]**My Role:** I engineered the orchestration of API calls between the frontend and the GCP backend, ensuring scalable deployment and seamless user experience[cite: 10].
 * [cite_start]**Outcome:** Recognized among top teams in North America for innovative use of evolutionary algorithms in forensics[cite: 88].
 
-### 📱 Production Engineering at Advance Infotech
-**Tags:** `Google Firebase` `Authentication` `Mobile Development`
+### 📱 Production Engineering & Database Management
+**Tags:** `SQL` `Firebase` `NoSQL` `Authentication`
 
-During my tenure as a Software Developer, I focused on building robust back-end integrations for mobile and web solutions.
+[cite_start]Experience as a Software Developer at Advance Infotech handling production-level data systems[cite: 74, 75].
 
-* [cite_start]**Key Work:** Managed Google Firebase databases and implemented secure Google Auth APIs to handle user data for local business applications[cite: 14, 77].
+* [cite_start]**Database Management:** Leveraged **SQL** alongside **Google Firebase (NoSQL)** to manage complex datasets and backend architecture, ensuring seamless data retrieval for mobile applications[cite: 77].
+* [cite_start]**Application:** Built robust back-end integrations for mobile and web solutions, ensuring data integrity and security[cite: 76].
 
 ---
 
