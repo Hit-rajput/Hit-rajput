@@ -38,7 +38,7 @@ A hybrid computer vision system classifying 7 distinct human emotions with super
 
 ### 🌲 [Canadian Forest Fire Analytics (Tableau Story)](https://public.tableau.com/views/CanadianForestFIres/FInalStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 **Tools:** `Tableau` `Data Cleaning` `Trend Analysis`
-![Tableau Story Overview](Dashboard_1.gif)
+![Tableau Story Overview](Dashboard_final.gif)
 
 A comprehensive data story visualizing 20+ years of wildfire data to identify the "Flash Drought" anomaly of 2017.
 * **Business Value:** Transforms complex meteorological data into an accessible narrative for stakeholders, highlighting risk factors in the Cariboo region.
