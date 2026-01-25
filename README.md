@@ -1,5 +1,5 @@
 # Hi there, I'm Hitesh 𓆉 
-### Junior AI Engineer | Data Scientist | Software Developer
+### Machine Learning & Data Science Professional | Software Engineering Background
 
 Data and machine learning professional with a strong software engineering background and a Master’s degree in Computational Science. Experienced in analytics, dashboard development using Power BI and Tableau, and applying data science and machine learning techniques to generate actionable insights. Actively advancing expertise in machine learning and optimization methods.
 
