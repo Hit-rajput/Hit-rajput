@@ -37,7 +37,10 @@ A hybrid computer vision system classifying 7 distinct human emotions with super
 
 ### 🌲 [Canadian Forest Fire Analytics (Tableau Story)](https://public.tableau.com/views/CanadianForestFIres/FInalStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 **Tools:** `Tableau` `Data Cleaning` `Geospatial Analysis`
-A comprehensive data story identifying the "Flash Drought" anomaly of 2017 using 20+ years of historical data.
+A comprehensive data story identifying the trends using 10+ years of historical data.
+
+![Tableau Story Overview](Dashboard_final.gif)
+
 * **Interactive Animation:** Engineered an **animation-based geospatial map** that visualizes the velocity and density of fire spread throughout the year, allowing stakeholders to pinpoint peak risk windows.
 * **Analyst Insight:** Correlated lightning-caused fires with higher intensity/area burned compared to human-caused fires, influencing resource allocation strategies for remote regions.
 
