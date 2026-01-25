@@ -32,17 +32,25 @@ A hybrid computer vision system classifying 7 distinct human emotions with super
 * **Outcome:** Outperformed standard CNN baselines on the CK+ dataset by capturing local geometric facial features.
 
 ---
-
 ## 📊 Data Visualization & Analytics
 *Focus: Business Analysis, Dashboarding, KPI Tracking, Data Storytelling*
 
 ### 🌲 [Canadian Forest Fire Analytics (Tableau Story)](https://public.tableau.com/views/CanadianForestFIres/FInalStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-**Tools:** `Tableau` `Data Cleaning` `Trend Analysis`
-![Tableau Story Overview](Dashboard_final.gif)
+**Tools:** `Tableau` `Data Cleaning` `Geospatial Analysis`
+A comprehensive data story identifying the "Flash Drought" anomaly of 2017 using 20+ years of historical data.
+* **Interactive Animation:** Engineered an **animation-based geospatial map** that visualizes the velocity and density of fire spread throughout the year, allowing stakeholders to pinpoint peak risk windows.
+* **Analyst Insight:** Correlated lightning-caused fires with higher intensity/area burned compared to human-caused fires, influencing resource allocation strategies for remote regions.
 
-A comprehensive data story visualizing 20+ years of wildfire data to identify the "Flash Drought" anomaly of 2017.
-* **Business Value:** Transforms complex meteorological data into an accessible narrative for stakeholders, highlighting risk factors in the Cariboo region.
-* **Key Insight:** Visualized the decoupling of fire intensity from traditional weather metrics due to the Mountain Pine Beetle infestation.
+### 🎮 [Global Console Game Sales Intelligence (Tableau)](LINK_TO_PDF_OR_TABLEAU)
+**Tools:** `Tableau` `Statistical Analysis` `Market Segmentation`
+A deep-dive strategic dashboard exploring market dynamics across genres, platforms, and publishers (1980–2015). This project utilizes descriptive statistics to uncover sales drivers in the NA, EU, and Global markets.
+
+| Analytical Dimension | Key Analyst Responsibilities & Insights |
+| :--- | :--- |
+| **Genre Trends** | **Trend Analysis:** Mapped the rise and fall of genre popularity over 35 years, identifying the "Action" genre as a consistent high-performer while "Puzzle" games showed declining market share. |
+| **Platform Wars** | **Performance Benchmarking:** Evaluated the lifecycle success of top 3 platforms, visualizing the "Console War" dominance shifts to inform platform-exclusive content strategies. |
+| **Regional Harmony** | **Correlation Analysis:** Discovered a strong linear correlation ("Linear Harmony") between NA and EU sales markets, suggesting unified marketing campaigns are effective for these regions. |
+| **Publisher Impact** | **Market Share Analysis:** Quantified the relative impact of top 10 titles on overall publisher revenue, highlighting reliance on "Blockbuster" hits versus steady portfolio performance. |
 
 ### 📈 [Retail/Sales Performance Dashboard (Power BI)]()
 *Coming Soon*
