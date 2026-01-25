@@ -1,7 +1,7 @@
 # Hi there, I'm Hitesh 𓆉 
 ### Junior AI Engineer | Data Scientist | Software Developer
 
-I am a Computational Science Master's graduate specializing in Machine Learning, Data Analytics, and Cloud Computing. My work bridges the gap between complex AI algorithms and actionable business insights.
+Data and machine learning professional with a strong software engineering background and a Master’s degree in Computational Science. Experienced in analytics, dashboard development using Power BI and Tableau, and applying data science and machine learning techniques to generate actionable insights. Actively advancing expertise in machine learning and optimization methods.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile-url) [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:hchauhan@laurentian.ca)
 
