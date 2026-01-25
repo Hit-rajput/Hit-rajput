@@ -44,7 +44,7 @@ A comprehensive data story identifying the trends using 10+ years of historical 
 * **Interactive Animation:** Engineered an **animation-based geospatial map** that visualizes the velocity and density of fire spread throughout the year, allowing stakeholders to pinpoint peak risk windows.
 * **Analyst Insight:** Correlated lightning-caused fires with higher intensity/area burned compared to human-caused fires, influencing resource allocation strategies for remote regions.
 
-### 🎮 [Global Console Game Sales Intelligence (Tableau)](LINK_TO_PDF_OR_TABLEAU)
+### 🎮 [Global Console Game Sales Intelligence (Tableau)](https://public.tableau.com/views/Game_console/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 **Tools:** `Tableau` `Statistical Analysis` `Market Segmentation`
 A deep-dive strategic dashboard exploring market dynamics across genres, platforms, and publishers (1980–2015). This project utilizes descriptive statistics to uncover sales drivers in the NA, EU, and Global markets.
 
