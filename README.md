@@ -19,7 +19,7 @@ Data and machine learning professional with a strong software engineering backgr
 ## 🧠 Machine Learning & Artificial Intelligence
 *Focus: Predictive Modeling, Computer Vision, Evolutionary Algorithms*
 
-### 🌲 [Ishkode - Evolutionary Wildfire Prediction](https://github.com/hit-rajput/forest-fire-prediction)
+### 🌲 [Ishkode - Evolutionary Wildfire Prediction](https://github.com/hit-rajput/forest-fire-prediction) ![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square)
 **Tools:** `Python` `Genetic Algorithms` `KDTree` `Scikit-Learn`
 A research initiative proposing a novel **Genetic Algorithm (GA)** to optimize feature selection for detecting "Mega-Fire" events in the Cariboo region.
 * **Methodology:** Implemented **KDTree spatial indexing** to accurately merge satellite fire perimeters with ERA5 weather station data.
@@ -55,8 +55,7 @@ A deep-dive strategic dashboard exploring market dynamics across genres, platfor
 | **Regional Harmony** | **Correlation Analysis:** Discovered a strong linear correlation ("Linear Harmony") between NA and EU sales markets, suggesting unified marketing campaigns are effective for these regions. |
 | **Publisher Impact** | **Market Share Analysis:** Quantified the relative impact of top 10 titles on overall publisher revenue, highlighting reliance on "Blockbuster" hits versus steady portfolio performance. |
 
-### 🩸 [Supply Risk Monitor (Power BI)]()
-** In Progress**
+### 🩸 [Supply Risk Monitor (Power BI)]() ![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square)
 **Tools:** `Power BI` `Predictive Risk Modeling` `Forecasting`
 A prescriptive analytics system forecasting trauma-driven blood demand against donor supply capacity.
 * **Goal:** Shifts healthcare logistics from descriptive reporting to prescriptive risk modeling.
