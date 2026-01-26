@@ -56,7 +56,7 @@ A deep-dive strategic dashboard exploring market dynamics across genres, platfor
 | **Publisher Impact** | **Market Share Analysis:** Quantified the relative impact of top 10 titles on overall publisher revenue, highlighting reliance on "Blockbuster" hits versus steady portfolio performance. |
 
 ### 🩸 [Supply Risk Monitor (Power BI)]()
-* In Progress*
+** In Progress**
 **Tools:** `Power BI` `Predictive Risk Modeling` `Forecasting`
 A prescriptive analytics system forecasting trauma-driven blood demand against donor supply capacity.
 * **Goal:** Shifts healthcare logistics from descriptive reporting to prescriptive risk modeling.
