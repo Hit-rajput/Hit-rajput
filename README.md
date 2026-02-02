@@ -55,7 +55,7 @@ A deep-dive strategic dashboard exploring market dynamics across genres, platfor
 | **Regional Harmony** | **Correlation Analysis:** Discovered a strong linear correlation ("Linear Harmony") between NA and EU sales markets, suggesting unified marketing campaigns are effective for these regions. |
 | **Publisher Impact** | **Market Share Analysis:** Quantified the relative impact of top 10 titles on overall publisher revenue, highlighting reliance on "Blockbuster" hits versus steady portfolio performance. |
 
-### 🩸 [Supply Risk Monitor (Power BI)]() ![Status](https://github.com/Hit-rajput/blood-supply-risk-monitor)
+### 🩸 [Supply Risk Monitor (Power BI)](https://github.com/Hit-rajput/blood-supply-risk-monitor)
 **Tools:** `Power BI` `Predictive Risk Modeling` `Forecasting`
 A prescriptive analytics system forecasting trauma-driven blood demand against donor supply capacity.
 * **Goal:** Shifts healthcare logistics from descriptive reporting to prescriptive risk modeling.
