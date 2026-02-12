@@ -1,7 +1,11 @@
 # Hi there, I'm Hitesh 𓆉
 ### Machine Learning & Data Science Professional | Software Engineering Background
 
-Data and machine learning professional with a strong software engineering background and a Master’s degree in Computational Science. Experienced in analytics, dashboard development using Power BI and Tableau, and applying data science and machine learning techniques to generate actionable insights. Actively advancing expertise in machine learning and optimization methods.
+I enjoy building things with data — from research-driven machine learning projects to experimental visualizations that explore new ways of representing information.
+
+This space is a collection of my academic work, personal projects, and ongoing research.
+
+When I’m not working with data, you’ll probably find me hiking 🏔️ or swimming 🌊.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-purple?style=for-the-badge&logo=github)](https://hit-rajput.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hitesh-rajput-4467b1b9/) [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:hchauhan@laurentian.ca)
