@@ -58,7 +58,7 @@ A comprehensive data story identifying the trends using 10+ years of historical 
 **Tools:** `Tableau` `Statistical Analysis` `Market Segmentation`
 A deep-dive strategic dashboard exploring market dynamics across genres, platforms, and publishers (1980–2015).
 
-![Global Console Game Sales](Game_console.png)
+![Global Console Game Sales](console.png)
 
 | Analytical Dimension | Key Analyst Responsibilities & Insights |
 | :--- | :--- |
