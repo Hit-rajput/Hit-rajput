@@ -36,9 +36,11 @@ A hybrid computer vision system classifying 7 distinct human emotions with super
 ## 📊 Data Visualization & Analytics
 *Focus: Business Analysis, Dashboarding, KPI Tracking, Data Storytelling*
 
-### 🎮 [Global Gaming Market Analysis (1980-2016)](https://public.tableau.com/app/profile/hitesh.chauhan)
+### 🎮 [Global Gaming Market Analysis (1980-2016)](https://public.tableau.com/app/profile/hitesh.rajputh/viz/global_sales_distribution_Rideline/GLobalSalesDistribution)
 **Tools:** `Tableau` `Ridgeline Plots` `Contextual Filtering` `UX/UI Design`
 A technical exploration of industry dominance, featuring custom-built **Ridgeline Plots** and **Packed Bubble Charts** to visualize the market share of key publishers.
+
+![Global Gaming Market](Ridge_plot.gif)
 
 * **The Challenge:** Standard charts often fail to show individual trajectories against a global backdrop effectively.
 * **The Solution (Contextual Filtering):** Engineered a complex hover interaction where interacting with the ridgeline distribution automatically filters the bottom Area Chart. This allows users to instantly compare a specific publisher's lifecycle (e.g., Nintendo's Wii-era spike) against total global sales volume in real-time.
@@ -55,6 +57,8 @@ A comprehensive data story identifying the trends using 10+ years of historical 
 ### 📊 [Global Console Game Sales Intelligence (Tableau)](https://public.tableau.com/views/Game_console/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 **Tools:** `Tableau` `Statistical Analysis` `Market Segmentation`
 A deep-dive strategic dashboard exploring market dynamics across genres, platforms, and publishers (1980–2015).
+
+![Global Console Game Sales](Game_console.png)
 
 | Analytical Dimension | Key Analyst Responsibilities & Insights |
 | :--- | :--- |
