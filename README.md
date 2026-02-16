@@ -77,6 +77,8 @@ A dynamic dashboard providing high-level insights into retail sales performance,
 * **Regional Analysis:** Drill-down capabilities to identify underperforming regions.
 * **order analysis:** Analyze order patterns and identify trends.
 
+![Superstore Dashboard Overview](Superstore_Combine.png)
+
 ### 🩸 [Supply Risk Monitor (Power BI)](https://github.com/Hit-rajput/blood-supply-risk-monitor)
 **Tools:** `Power BI` `Predictive Risk Modeling` `Forecasting`
 A prescriptive analytics system forecasting trauma-driven blood demand against donor supply capacity.
