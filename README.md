@@ -70,6 +70,13 @@ A deep-dive strategic dashboard exploring market dynamics across genres, platfor
 | **Platform Wars** | **Performance Benchmarking:** Evaluated the lifecycle success of top 3 platforms, visualizing the "Console War" dominance shifts. |
 | **Regional Harmony** | **Correlation Analysis:** Discovered a strong linear correlation between NA and EU sales markets, suggesting unified marketing campaigns are effective. |
 
+### 🛒 [Superstore Sales Dashboard (Power BI)](https://github.com/Hit-rajput/Superstore-Dashboard-power-bi)
+**Tools:** `Power BI` `DAX` `Data Modeling` `Forecasting`
+A dynamic dashboard providing high-level insights into retail sales performance, profit margins, and shipping efficiency.
+* **Executive Overview:** High-level KPIs for Sales, Profit, and Quantity.
+* **Regional Analysis:** Drill-down capabilities to identify underperforming regions.
+* **order analysis:** Analyze order patterns and identify trends.
+
 ### 🩸 [Supply Risk Monitor (Power BI)](https://github.com/Hit-rajput/blood-supply-risk-monitor)
 **Tools:** `Power BI` `Predictive Risk Modeling` `Forecasting`
 A prescriptive analytics system forecasting trauma-driven blood demand against donor supply capacity.
