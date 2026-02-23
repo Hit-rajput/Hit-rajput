@@ -58,7 +58,7 @@ A comprehensive data story identifying the trends using 10+ years of historical 
 * **Interactive Animation:** Engineered an **animation-based geospatial map** that visualizes the velocity and density of fire spread throughout the year, allowing stakeholders to pinpoint peak risk windows.
 * **Analyst Insight:** Correlated lightning-caused fires with higher intensity/area burned compared to human-caused fires, influencing resource allocation strategies for remote regions.
 
-### 📊 [Global Console Game Sales Intelligence (Tableau)](https://public.tableau.com/views/Game_console/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+###  [Global Console Game Sales Intelligence (Tableau)](https://public.tableau.com/views/Game_console/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 **Tools:** `Tableau` `Statistical Analysis` `Market Segmentation`
 A deep-dive strategic dashboard exploring market dynamics across genres, platforms, and publishers (1980–2015).
 
@@ -70,7 +70,7 @@ A deep-dive strategic dashboard exploring market dynamics across genres, platfor
 | **Platform Wars** | **Performance Benchmarking:** Evaluated the lifecycle success of top 3 platforms, visualizing the "Console War" dominance shifts. |
 | **Regional Harmony** | **Correlation Analysis:** Discovered a strong linear correlation between NA and EU sales markets, suggesting unified marketing campaigns are effective. |
 
-### 🛒 [Superstore Sales Dashboard (Power BI)](https://github.com/Hit-rajput/Superstore-Dashboard-power-bi)
+### [Superstore Sales Dashboard (Power BI)](https://github.com/Hit-rajput/Superstore-Dashboard-power-bi)
 **Tools:** `Power BI` `DAX` `Data Modeling` `Forecasting`
 A dynamic dashboard providing high-level insights into retail sales performance, profit margins, and shipping efficiency.
 * **Executive Overview:** High-level KPIs for Sales, Profit, and Quantity.
@@ -79,7 +79,7 @@ A dynamic dashboard providing high-level insights into retail sales performance,
 
 ![Superstore Dashboard Overview](Superstore_Combine.png)
 
-### 🩸 [Supply Risk Monitor (Power BI)](https://github.com/Hit-rajput/blood-supply-risk-monitor)
+###  [Supply Risk Monitor (Power BI)](https://github.com/Hit-rajput/blood-supply-risk-monitor)
 **Tools:** `Power BI` `Predictive Risk Modeling` `Forecasting`
 A prescriptive analytics system forecasting trauma-driven blood demand against donor supply capacity.
 * **Goal:** Shifts healthcare logistics from descriptive reporting to prescriptive risk modeling.
