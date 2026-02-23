@@ -12,7 +12,7 @@ When I’m not working with data, you’ll probably find me hiking 🏔️ or sw
 
 ---
 
-## 🚀 Explore Projects by Skill
+##  Explore Projects by Skill
 *Click a button below to jump to relevant projects.*
 
 [![](https://img.shields.io/badge/Machine_Learning_&_AI-FF6F00?style=for-the-badge&logo=google-colab&logoColor=white)](#-machine-learning--artificial-intelligence)
@@ -21,16 +21,16 @@ When I’m not working with data, you’ll probably find me hiking 🏔️ or sw
 
 ---
 
-## 🧠 Machine Learning & Artificial Intelligence
+##  Machine Learning & Artificial Intelligence
 *Focus: Predictive Modeling, Computer Vision, Evolutionary Algorithms*
 
-### 🌲 [Ishkode - Evolutionary Wildfire Prediction](https://github.com/hit-rajput/forest-fire-prediction) ![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square)
+###  [Ishkode - Evolutionary Wildfire Prediction](https://github.com/hit-rajput/forest-fire-prediction) ![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square)
 **Tools:** `Python` `Genetic Algorithms` `KDTree` `Scikit-Learn`
 A research initiative proposing a novel **Genetic Algorithm (GA)** to optimize feature selection for detecting "Mega-Fire" events in the Cariboo region.
 * **Methodology:** Implemented **KDTree spatial indexing** to accurately merge satellite fire perimeters with ERA5 weather station data.
 * **Key Innovation:** Moves beyond standard classification to handle high-imbalance datasets (rare extreme events).
 
-### 🎭 [Hybrid Facial Emotion Recognition (FER)](https://github.com/hit-rajput/sentiment_analysis)
+###  [Hybrid Facial Emotion Recognition (FER)](https://github.com/hit-rajput/sentiment_analysis)
 **Tools:** `Python` `TensorFlow/Keras` `OpenCV` `MATLAB`
 A hybrid computer vision system classifying 7 distinct human emotions with superior robustness to lighting changes.
 * **Innovation:** Integrated **CNNs** with manual feature descriptors (**HOG + SIFT**) to stabilize learning curves.
@@ -49,7 +49,7 @@ A technical exploration of industry dominance, featuring custom-built **Ridgelin
 * **The Challenge:** Standard charts often fail to show individual trajectories against a global backdrop effectively.
 * **The Solution (Contextual Filtering):** Engineered a complex hover interaction where interacting with the ridgeline distribution automatically filters the bottom Area Chart. This allows users to instantly compare a specific publisher's lifecycle (e.g., Nintendo's Wii-era spike) against total global sales volume in real-time.
 
-### 🌲 [Canadian Forest Fire Analytics (Tableau Story)](https://public.tableau.com/views/CanadianForestFIres/FInalStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+###  [Canadian Forest Fire Analytics (Tableau Story)](https://public.tableau.com/views/CanadianForestFIres/FInalStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 **Tools:** `Tableau` `Data Cleaning` `Geospatial Analysis`
 A comprehensive data story identifying the trends using 10+ years of historical data.
 
@@ -87,15 +87,15 @@ A prescriptive analytics system forecasting trauma-driven blood demand against d
 
 ---
 
-## 💻 Cloud & Software Engineering
+##  Cloud & Software Engineering
 *Focus: Backend Development, Cloud Infrastructure, Database Management*
 
-### ☁️ Evolutionary Algorithm Backend on GCP
+###  Evolutionary Algorithm Backend on GCP
 **Tools:** `Google Cloud Platform` `MATLAB` `API Integration`
 Engineered the orchestration of API calls between a frontend interface and a GCP-hosted MATLAB microservice performing complex forensic evolutionary algorithms.
 * **Role:** Managed scalable deployment and seamless user experience for a top-performing North American research team.
 
-### 📱 Production Data Engineering
+###  Production Data Engineering
 **Tools:** `SQL` `Firebase` `NoSQL`
 Experience managing production-level data systems at Advance Infotech.
 * **Database Management:** Leveraged **SQL** alongside **Google Firebase** to manage complex datasets for mobile applications.
