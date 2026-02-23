@@ -40,7 +40,7 @@ A hybrid computer vision system classifying 7 distinct human emotions with super
 ## 📊 Data Visualization & Analytics
 *Focus: Business Analysis, Dashboarding, KPI Tracking, Data Storytelling*
 
-### 🎮 [Global Gaming Market Analysis (1980-2016)](https://public.tableau.com/app/profile/hitesh.rajputh/viz/global_sales_distribution_Rideline/GLobalSalesDistribution)
+###  [Global Gaming Market Analysis (1980-2016)](https://public.tableau.com/app/profile/hitesh.rajputh/viz/global_sales_distribution_Rideline/GLobalSalesDistribution)
 **Tools:** `Tableau` `Ridgeline Plots` `Contextual Filtering` `UX/UI Design`
 A technical exploration of industry dominance, featuring custom-built **Ridgeline Plots** and **Packed Bubble Charts** to visualize the market share of key publishers.
 
