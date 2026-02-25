@@ -41,7 +41,7 @@ A hybrid computer vision system classifying 7 distinct human emotions with super
 This project presents an innovative approach to forensic image analysis, focusing on the challenge of color separation in complex images. It explores the use of evolutionary algorithms to enhance the clarity and distinctness of visual information, which is crucial in forensic investigations and legal proceedings.
 
 
- ![result](https://github.com/Hit-rajput/Project-Atisan/raw/main/Results/Test_2_final.jpg)
+ ![result](https://github.com/Hit-rajput/Project-Atisan/raw/main/Results/Color%20Separation%20Algorithm%20Steps_joe.png)
 
 ---
 ## 📊 Data Visualization & Analytics
