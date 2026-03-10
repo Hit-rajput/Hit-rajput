@@ -88,6 +88,10 @@ A dynamic dashboard providing high-level insights into retail sales performance,
 
 ###  [Supply Risk Monitor (Power BI)](https://github.com/Hit-rajput/blood-supply-risk-monitor)
 **Tools:** `Power BI` `Predictive Risk Modeling` `Forecasting`
+ ![Prescriptive dashboard](https://github.com/Hit-rajput/blood-supply-risk-monitor/blob/3f84608d6cdd6088e47c34eed902363dbf14dc12/docs/images/Dashboard/Prescriptive_dashboard.png)  ![Predictive algorithm using facebook prophet model](https://github.com/Hit-rajput/blood-supply-risk-monitor/blob/3f84608d6cdd6088e47c34eed902363dbf14dc12/docs/Prediction_result_test/pred_res.png) 
+
+
+
 A prescriptive analytics system forecasting trauma-driven blood demand against donor supply capacity.
 * **Goal:** Shifts healthcare logistics from descriptive reporting to prescriptive risk modeling.
 * **Key Question:** "Given forecasted weather conditions and historical donor patterns, what is the probability of a supply deficit?"
